@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @japeka
+- 👀 I’m interested in all flavors of programming, playing chess and swimming.
+- 🌱 I’m currently learning React and Next.js.
+- 📫 How to reach me? I am available at janne.kalliokulju@gmail.com
